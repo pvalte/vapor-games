@@ -1,5 +1,5 @@
 {
-  "name": "coffeeworkoutvideogame",
+  "name": "vaporgames",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Benrowen5/CoffeeWorkoutVideoGame.git"
+    "url": "git+https://github.com/pvalte/vapor-games.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Benrowen5/CoffeeWorkoutVideoGame/issues"
+    "url": "https://github.com/pvalte/vapor-games/issues"
   },
-  "homepage": "https://github.com/Benrowen5/CoffeeWorkoutVideoGame#readme",
+  "homepage": "https://github.com/pvalte/vapor-games#readme",
   "devDependencies": {
     "concurrently": "^7.0.0"
   },
